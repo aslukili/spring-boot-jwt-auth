@@ -1,3 +1,5 @@
+//this is our dto (what we get from the login)
+
 package com.example.demo.jwt;
 
 public class UsernameAndPasswordAuthenticationRequest {
